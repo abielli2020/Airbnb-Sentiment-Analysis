@@ -21,7 +21,11 @@ This repository contains the project files for the Airbnb Sentiment Analysis, wh
 
 ### Objective
 
-The goal of this project is to analyze Airbnb reviews to: - Understand customer sentiment trends over time. - Identify frequently used keywords and phrases. - Conduct sentiment analysis using the Bing and NRC lexicons. - Investigate the use of diversity and inclusion related language in reviews.
+The goal of this project is to analyze Airbnb reviews to:
+- Understand customer sentiment trends over time
+- Identify frequently used keywords and phrases
+- Conduct sentiment analysis using the Bing and NRC lexicons
+- Investigate the use of diversity and inclusion related language in reviews
 
 ### Methodology
 
@@ -77,5 +81,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/alessandrabielli) or [
 Feel free to explore, fork, and contribute to this project!
 
 ------------------------------------------------------------------------
-
-Let me know if you'd like to refine this further!
