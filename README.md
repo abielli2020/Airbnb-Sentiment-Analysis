@@ -77,6 +77,7 @@ The goal of this project is to analyze Airbnb reviews to:
 
 **Alessandra Bielli**\
 Data Analyst | Marketing and Behavioral Scientist 
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alessandrabielli) or [GitHub](https://github.com/abielli2020).
 
 Feel free to explore, fork, and contribute to this project!  
